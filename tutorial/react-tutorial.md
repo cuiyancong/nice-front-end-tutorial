@@ -19,5 +19,6 @@
 * [Ant Design](https://ant.design/)
 * [React material UI](http://material-ui.com/#)
 * [React amazeui UI](http://amazeui.org/react)
+* [RSUITE](https://rsuitejs.com/): 一套 React 的 UI 组件库
 
 ## 进阶篇
