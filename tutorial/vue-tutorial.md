@@ -19,6 +19,7 @@
 
 * [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
 * [VueJS 开发常见问题集锦](https://blog.beard.ink/JavaScript/VueJS-开发常见问题集锦/)
+* [11 Vue.js Component Libraries You Should Know In 2018](https://blog.bitsrc.io/11-vue-js-component-libraries-you-should-know-in-2018-3d35ad0ae37f)
 
 ## 周边篇
 
