@@ -10,6 +10,11 @@
 - [一劳永逸的搞定 flex 布局](https://juejin.im/post/58e3a5a0a0bb9f0069fc16bb)
 - [CSS征途之Background点滴](https://jeffjade.com/2015/06/29/2015-06-29-css-background/)
 
+## 动画篇
+- [Using CSS animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+- [CSS3 动画实践](https://aotu.io/notes/2016/01/04/css3-animation/index.html)
+- [Using CSS Transitions on Auto Dimensions](https://css-tricks.com/using-css-transitions-auto-dimensions/)
+
 ## 规范篇
 - [编写灵活、稳定、高质量的 HTML 和 CSS 代码的规范。](http://codeguide.bootcss.com/)
 - [**如何编写可维护的CSS**](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)  
