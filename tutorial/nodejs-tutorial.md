@@ -15,6 +15,7 @@
 - [Advanced Node.js Tutorials](https://blog.risingstack.com/tag/advanced-node-js-tutorials/)
 - [Node.js with Microservices](https://blog.risingstack.com/tag/node-js-with-microservices/)
 - [Node.js Async Function Best Practices](https://nemethgergely.com/async-function-best-practices/)
+- [Implementing JavaScript Functors and Monads](https://medium.com/front-end-hacking/implementing-javascript-functors-and-monads-a87b6a4b4d9a)
 
 ## 安全篇
 
@@ -47,3 +48,5 @@
 ## 咨询篇
 
 - [Node.js Best Practices - How to become a better Node.js developer in 2018](https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
+- [Node.js as Backend: Best Use Cases, Tools & Limitations](https://medium.com/dailyjs/node-js-as-backend-best-use-cases-tools-limitations-9c65165a5bac)
+- [12 common JavaScript questions answered](http://www.creativebloq.com/features/12-common-javascript-questions-answered)
