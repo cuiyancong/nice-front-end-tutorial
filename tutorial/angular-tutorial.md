@@ -11,5 +11,6 @@
 
 ## 资源篇
 
+- [Awesome Angular List](https://github.com/gdi2290/awesome-angular)
 - [Angular UI 组件](https://github.com/angular-ui)   
 - [Angular Bootstrap 封装](http://angular-ui.github.io/bootstrap) 
